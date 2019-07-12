@@ -10,7 +10,7 @@ namespace MvcApplication2.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "MVC Application to test TeamCity CI Automation.";
+            ViewBag.Message = "MVC Application to test CI Automation.";
 
             return View();
         }
